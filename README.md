@@ -1,2 +1,8 @@
-# AirBnB_clone_v3
-AirBnB clone - RESTful API
+# AirBnB Clone v#
+
+...To be Updated
+
+## Authors
+Victor Chesachi Kalu
+Kenneth Waiswa
+
