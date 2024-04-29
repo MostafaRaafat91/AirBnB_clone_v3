@@ -2,7 +2,3 @@
 
 ...To be Updated
 
-## Authors
-Victor Chesachi Kalu
-Kenneth Waiswa
-
